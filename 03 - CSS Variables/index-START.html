@@ -26,6 +26,23 @@
       misc styles, nothing to do with CSS variables
     */
 
+    :root{
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 10px;
+    }
+
+    img{
+      padding: var(--spacing);
+      background: var(--base);
+      -webkit-filter: blur(var(--blur));
+      filter: blur(var(--blur));
+    }
+
+    .h1{
+      color: var(--base);
+    }
+
     body {
       text-align: center;
     }
@@ -48,6 +65,19 @@
   </style>
 
   <script>
+    const inputs = document.querySelectorAll('.controls input');
+
+    function handleUpdate() {
+      console.log(this.value);
+      const suffix = this.dataset.sizing || '';
+
+      //target the name on the input
+      document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
+    }
+
+    //not sure why IDE is giving me error
+    inputs.forEach(input => input.addEventListener('change', handleUpdate));
+    inputs.forEach(input => input.addEventListener('mousemove', handleUpdate));
   </script>
 
 </body>
