@@ -18,12 +18,13 @@ body {
 }
 
 .player {
-  max-width:750px;
+  width:750px;
   border:5px solid rgba(0,0,0,0.2);
   box-shadow:0 0 20px rgba(0,0,0,0.2);
-  position: relative;
+  position: absolute;
   font-size: 0;
   overflow: hidden;
+  transition: all .3s;
 }
 
 .player__video {
@@ -66,6 +67,12 @@ body {
   transform: translateY(0);
 }
 
+.player__controls.fullscreen{
+  transform: translateY(0);
+  z-index: 2147483648;
+  left:0;
+}
+
 .player:hover .progress {
   height:15px;
 }
@@ -89,7 +96,7 @@ body {
   width:50%;
   background:#ffc600;
   flex:0;
-  flex-basis:50%;
+  flex-basis:0%;
 }
 
 /* unholy css to style input type="range" */
@@ -142,4 +149,9 @@ input[type=range]::-moz-range-thumb {
   border-radius: 50px;
   background: #ffc600;
   cursor: pointer;
+}
+
+
+video::-webkit-media-controls-enclosure{
+  display: none;
 }
