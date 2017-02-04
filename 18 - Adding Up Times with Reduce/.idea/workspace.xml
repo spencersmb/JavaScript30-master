@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdcfe908-3d86-466d-b914-f1fdba389d2f" name="Default" comment="" />
-    <ignored path="14 - JavaScript References VS Copying.iws" />
+    <list default="true" id="0cf8606f-1f11-469e-8974-0190ca32f33d" name="Default" comment="" />
+    <ignored path="18 - Adding Up Times with Reduce.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +18,27 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="14 - JavaScript References VS Copying" />
+    <favorites_list name="18 - Adding Up Times with Reduce" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-START.html">
+      <file leaf-file-name="ap.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <marker date="1484373518000" expanded="true" signature="31:167" placeholder="..." />
-                <marker date="1484373518000" expanded="true" signature="116:159" placeholder="..." />
+                <marker date="1484545630000" expanded="false" signature="800:1029" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+            <state relative-caret-position="155">
+              <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,7 +57,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index-START.html" />
-        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/ap.js" />
       </list>
     </option>
   </component>
@@ -69,8 +68,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="412" />
+    <option name="x" value="21" />
+    <option name="y" value="415" />
     <option name="width" value="1297" />
     <option name="height" value="439" />
   </component>
@@ -99,32 +98,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="18 - Adding Up Times with Reduce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="18 - Adding Up Times with Reduce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="18 - Adding Up Times with Reduce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../15 - LocalStorage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../22 - Follow Along Link Highlighter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
@@ -179,23 +178,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdcfe908-3d86-466d-b914-f1fdba389d2f" name="Default" comment="" />
-      <created>1484373480870</created>
+      <changelist id="0cf8606f-1f11-469e-8974-0190ca32f33d" name="Default" comment="" />
+      <created>1484537857447</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1484373480870</updated>
-      <workItem from="1484373481929" duration="1487000" />
+      <updated>1484537857447</updated>
+      <workItem from="1484537858512" duration="3615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1487000" />
+    <option name="totallyTimeSpent" value="3615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="412" width="1297" height="439" extended-state="0" />
-    <editor active="true" />
+    <frame x="21" y="415" width="1297" height="439" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -224,20 +223,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <marker date="1484373518000" expanded="true" signature="31:167" placeholder="..." />
-            <marker date="1484373518000" expanded="true" signature="116:159" placeholder="..." />
-          </folding>
+        <state relative-caret-position="155">
+          <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/ap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1484545630000" expanded="false" signature="800:1029" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

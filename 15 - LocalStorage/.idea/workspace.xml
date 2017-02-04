@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdcfe908-3d86-466d-b914-f1fdba389d2f" name="Default" comment="" />
-    <ignored path="14 - JavaScript References VS Copying.iws" />
+    <list default="true" id="085b0b63-96cb-4716-8aeb-150d449556c3" name="Default" comment="" />
+    <ignored path="15 - LocalStorage.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +18,26 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="14 - JavaScript References VS Copying" />
+    <favorites_list name="15 - LocalStorage" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <marker date="1484373518000" expanded="true" signature="31:167" placeholder="..." />
-                <marker date="1484373518000" expanded="true" signature="116:159" placeholder="..." />
-              </folding>
+            <state relative-caret-position="59">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,9 +45,35 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="391">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#clearAll#0" expanded="false" />
+                <element signature="n#!!block;n#checkAll#0" expanded="false" />
+                <element signature="n#!!block;n#uncheckAll#0" expanded="false" />
+                <element signature="n#!!block;n#addItem#0" expanded="false" />
+                <element signature="e#1400#1518#0" expanded="false" />
+                <element signature="n#!!block;n#populateList#0" expanded="false" />
+                <element signature="n#!!block;n#handleInput#0" expanded="false" />
+                <element signature="n#!!block;n#addNewListener#0" expanded="false" />
+                <marker date="1484447741000" expanded="true" signature="1994:2064" placeholder="..." />
+                <marker date="1484447741000" expanded="true" signature="1994:2097" placeholder="..." />
+                <marker date="1484447741000" expanded="true" signature="1994:2165" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-FINISHED.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-FINISHED.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-161">
+              <caret line="58" column="77" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="77" />
+              <folding>
+                <element signature="e#2529#2809#0" expanded="false" />
+                <element signature="e#2860#3138#0" expanded="false" />
+                <marker date="1484442036000" expanded="true" signature="2942:3107" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,7 +90,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index-FINISHED.html" />
         <option value="$PROJECT_DIR$/index-START.html" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
@@ -66,6 +101,9 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -99,32 +137,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="15 - LocalStorage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="15 - LocalStorage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="15 - LocalStorage" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../15 - LocalStorage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../16 - Mouse Move Shadow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
@@ -177,25 +215,28 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdcfe908-3d86-466d-b914-f1fdba389d2f" name="Default" comment="" />
-      <created>1484373480870</created>
+      <changelist id="085b0b63-96cb-4716-8aeb-150d449556c3" name="Default" comment="" />
+      <created>1484375946373</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1484373480870</updated>
-      <workItem from="1484373481929" duration="1487000" />
+      <updated>1484375946373</updated>
+      <workItem from="1484375947423" duration="8714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1487000" />
+    <option name="totallyTimeSpent" value="8714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="412" width="1297" height="439" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -214,30 +255,69 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="58" column="77" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="77" />
+          <folding>
+            <element signature="e#2529#2809#0" expanded="false" />
+            <element signature="e#2860#3138#0" expanded="false" />
+            <marker date="1484442036000" expanded="true" signature="2942:3107" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <marker date="1484373518000" expanded="true" signature="31:167" placeholder="..." />
-            <marker date="1484373518000" expanded="true" signature="116:159" placeholder="..." />
-          </folding>
+        <state relative-caret-position="59">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#clearAll#0" expanded="false" />
+            <element signature="n#!!block;n#checkAll#0" expanded="false" />
+            <element signature="n#!!block;n#uncheckAll#0" expanded="false" />
+            <element signature="n#!!block;n#addItem#0" expanded="false" />
+            <element signature="e#1400#1518#0" expanded="false" />
+            <element signature="n#!!block;n#populateList#0" expanded="false" />
+            <element signature="n#!!block;n#handleInput#0" expanded="false" />
+            <element signature="n#!!block;n#addNewListener#0" expanded="false" />
+            <marker date="1484447741000" expanded="true" signature="1994:2064" placeholder="..." />
+            <marker date="1484447741000" expanded="true" signature="1994:2097" placeholder="..." />
+            <marker date="1484447741000" expanded="true" signature="1994:2165" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
